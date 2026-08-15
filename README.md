@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Javairia Rafhan 👋</h1>
+  <h1>Hi there, I'm Javeria Rafhan 👋</h1>
   <h3>🎓 6th Semester Software Engineering Student</h3>
   <p><strong>Python • Java • Mobile & Web App Development • Data Analysis</strong></p>
 
