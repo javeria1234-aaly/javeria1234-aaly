@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Javairia+Rafhan+👋;Software+Engineering+Student+🎓;Python+|+Java+|+App+Development;Building+Real-World+Solutions+🚀" alt="Typing SVG" />
+  <h1>Hi there, I'm Javairia Rafhan 👋</h1>
+  <h3>🎓 6th Semester Software Engineering Student</h3>
+  <p><strong>Python • Java • Mobile & Web App Development • Data Analysis</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/javeriarafhan">
